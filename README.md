@@ -1,5 +1,5 @@
 - 👋 Hello there,
-- I am Hadi Dastour and an software developer
+- I am a software developer
 - Skills: C, C++, JavaSE
 - Frameworks: Spring, Hibernate, JDBC
 - You can reach me by:
