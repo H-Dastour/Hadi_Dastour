@@ -1,6 +1,6 @@
 - 👋 Hello there,
 - I am a software developer
-- Skills: C, C++, JavaSE
+- Skills: JavaSE, C, C++ 
 - Frameworks: Spring, Hibernate, JDBC
 - You can reach me by:
 - Email: Hadi.Dastoor@gmail.com
